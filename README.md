@@ -2,7 +2,9 @@
 This project detects brain tumors using a trained model with a React frontend and Python backend.
 # Model
 Download the trained model and place it in the `backend/model/` folder:  
-Download Model:- (https://drive.google.com/file/d/15MV7_YbH_TpbZ3NVmdADz7CenhbCHT9F/view?usp=sharing)
+Download Model:- 
+Model for MRI VS NOT:- https://drive.google.com/file/d/1QchyGpfTywvrri1zqkhykM0DCjUyFmxL/view?usp=sharing
+Model for classification:- https://drive.google.com/file/d/1T-9xxEF7pQAUM4LUaNQ7njMSq5Cf95Un/view?usp=sharing
 # Backend
 1. Open a terminal and go to the `backend` folder.  
 2. Install dependencies:  
